@@ -18,7 +18,7 @@ This is the Screenshot of the interface of this GUI Project.
 
 # Setup
 The project repository can be found in my GitHub link  or  just clone the project using this command.
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20191119.png" />
+<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20200232.png" />
 
 # Tool Used 
 Visual Studion Code
