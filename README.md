@@ -8,7 +8,7 @@ If you want to Play with this GUI clone it👉  https://github.com/Govindfw22095
 
 This is the Screenshot of the interface of this GUI Project.
 
-<img src="https://github.com/Govindfw220955/GUI_Calander/blob/main/Screenshot%202024-02-27%20184016.png" alt="GUI of Calender" align="center" />
+<img align="center" src="https://github.com/Govindfw220955/GUI_Calander/blob/main/Screenshot%202024-02-27%20184016.png" alt="GUI of Calender"  />
 
 
 
