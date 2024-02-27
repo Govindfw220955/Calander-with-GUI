@@ -1,4 +1,4 @@
-## Welcome to the Project GUI
+## Welcome to the Calendar with GUI
 
 # Project Description
 About
